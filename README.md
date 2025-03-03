@@ -1,2 +1,2 @@
-# ncasimyr.github.io
+# ncaz.github.io
 Personal website
